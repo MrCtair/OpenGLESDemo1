@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		754DF35724CED6DF0030B462 /* myDesk.png in Resources */ = {isa = PBXBuildFile; fileRef = 754DF35624CED6DF0030B462 /* myDesk.png */; };
+		754DF35B24CEDACA0030B462 /* myDesk.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 754DF35A24CEDACA0030B462 /* myDesk.jpg */; };
 		7589F98024CEAF3D00EFD039 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7589F97F24CEAF3D00EFD039 /* AppDelegate.m */; };
 		7589F98324CEAF3D00EFD039 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7589F98224CEAF3D00EFD039 /* SceneDelegate.m */; };
 		7589F98624CEAF3D00EFD039 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7589F98524CEAF3D00EFD039 /* ViewController.m */; };
@@ -17,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		754DF35624CED6DF0030B462 /* myDesk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = myDesk.png; sourceTree = "<group>"; };
+		754DF35A24CEDACA0030B462 /* myDesk.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = myDesk.jpg; sourceTree = "<group>"; };
 		7589F97B24CEAF3D00EFD039 /* OpenGL ES 001.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "OpenGL ES 001.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7589F97E24CEAF3D00EFD039 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		7589F97F24CEAF3D00EFD039 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -68,6 +72,8 @@
 				7589F98424CEAF3D00EFD039 /* ViewController.h */,
 				7589F98524CEAF3D00EFD039 /* ViewController.m */,
 				7589F98724CEAF3D00EFD039 /* Main.storyboard */,
+				754DF35A24CEDACA0030B462 /* myDesk.jpg */,
+				754DF35624CED6DF0030B462 /* myDesk.png */,
 				7589F98A24CEAF3F00EFD039 /* Assets.xcassets */,
 				7589F98C24CEAF3F00EFD039 /* LaunchScreen.storyboard */,
 				7589F98F24CEAF3F00EFD039 /* Info.plist */,
@@ -134,7 +140,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				7589F98E24CEAF3F00EFD039 /* LaunchScreen.storyboard in Resources */,
+				754DF35B24CEDACA0030B462 /* myDesk.jpg in Resources */,
 				7589F98B24CEAF3F00EFD039 /* Assets.xcassets in Resources */,
+				754DF35724CED6DF0030B462 /* myDesk.png in Resources */,
 				7589F98924CEAF3D00EFD039 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
