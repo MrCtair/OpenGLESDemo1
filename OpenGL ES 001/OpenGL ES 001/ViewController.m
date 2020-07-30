@@ -139,6 +139,9 @@
     [cEffect prepareToDraw];
     
     glDrawArrays(GL_TRIANGLES, 0, 6);
+    
+    // 这是一个小change
+    NSLog(@"2131231");
 }
 
 
